@@ -8,7 +8,6 @@ import loguru
 import spacy
 
 AWS_ACCESS_KEY_ID = "aws_key"
-# AWS_SECRET_ACCESS_KEY = "dwaWhQTXJsII8IuuhReew5ToMRJQ7YC5MCQ6EQBh"
 AWS_SECRET_ACCESS_KEY = "secret_key"
                         
 
